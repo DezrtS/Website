@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[13293,["/_next/static/chunks/0iwz~d34oj_si.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0fd35.3hkclw3.js","/_next/static/chunks/0w9e.uc3t9~xb.js"],"Header"]
+3:I[57687,["/_next/static/chunks/0iwz~d34oj_si.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0fd35.3hkclw3.js","/_next/static/chunks/0w9e.uc3t9~xb.js"],"SkillsList"]
+4:I[97367,["/_next/static/chunks/0iwz~d34oj_si.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"pt-24 pb-16 px-6","children":["$","div",null,{"className":"mx-auto max-w-5xl","children":[["$","div",null,{"className":"mb-6","children":[["$","h1",null,{"className":"text-4xl font-bold text-foreground mb-4","children":"My Skills"}],["$","p",null,{"className":"text-lg text-muted-foreground","children":"A collection of all skills and tools used across my projects."}]]}],["$","$L3",null,{}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0fd35.3hkclw3.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0w9e.uc3t9~xb.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DkXhEtpu0UN08J-KPIAQy"}
+6:null
